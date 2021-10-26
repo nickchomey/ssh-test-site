@@ -1,0 +1,9 @@
+*
+!.gitignore
+!webapps/!
+!wp-content/
+!wp-content/plugins
+!wp-content/plugins/litespeed-cache**
+!wp-content/themes
+!wp-content/themes/twentynineteen**
+
