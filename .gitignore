@@ -4,6 +4,8 @@
 !wp-content/
 !wp-content/plugins
 !wp-content/plugins/litespeed-cache**
+!wp-content/plugins/buddyboss**
 !wp-content/themes
 !wp-content/themes/twentynineteen**
+!wp-content/themes/buddyboss**
 
